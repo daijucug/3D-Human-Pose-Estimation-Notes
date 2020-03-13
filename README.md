@@ -57,8 +57,8 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 - Depth ambiguity, ill-posed nature (multiple 3D poses can map to the same 2D keypoints)
 - Lack of a larger 3D pose dataset in the wild (major bottleneck)
   - Lack of a special pose dataset (tumbling, rolling)
-  - Obtain a 3D pose dataset is diﬃcult and expensive (require a complicated laboratory setup with motion capture sensors and cameras)
   - Limit their generalizability due to the constrained lab environment)
+  - Obtain a 3D pose dataset is diﬃcult and expensive (require a complicated laboratory setup with motion capture sensors and cameras)
 
 <div align=center>
   <img src="data/Motion.png" alt="Motion" width="400" />
@@ -115,7 +115,7 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 </div>
 
 <div align=center>
-  <img src="data/17Joints.png" alt="17Joints" width="400" />
+  <img src="data/17Joints.png" alt="17Joints" width="300" />
 </div>
 
 ### Evaluation Metrics
@@ -132,7 +132,7 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 ### Supervised Method
 
 - Weakly-Supervised
-  - Depth、Point cloud、Mesh、GAN、Reprojection the 3D to 2D
+  - Depth, Point cloud, Mesh, GAN, Reprojection the 3D to 2D
 - Semi-supervised
   - Reprojection the 3D to 2D
 - Self-Supervised 
@@ -148,6 +148,11 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 ## 3D Shape Estimation
 
 ...
+
+
+
+
+  
 
 
 
