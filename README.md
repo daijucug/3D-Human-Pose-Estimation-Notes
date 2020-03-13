@@ -39,7 +39,9 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 - Complex background
 - Special pose
 
-<div align=center><img src="data/Challenge.png" alt="Challenge" width="900" /></div>
+<div align=center>
+  <img src="data/Challenge.png" alt="Challenge" width="900" />
+</div>
 
 ## 3D Pose Estimation 
 
@@ -58,7 +60,9 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
   - Obtain a 3D pose dataset is diﬃcult and expensive (require a complicated laboratory setup with motion capture sensors and cameras)
   - Limit their generalizability due to the constrained lab environment)
 
-<div align=center><img src="data/Motion.png" alt="Motion" width="400" /></div>
+<div align=center>
+  <img src="data/Motion.png" alt="Motion" width="400" />
+</div>
 
 ### Application
 
@@ -68,7 +72,9 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 - Provide a auxiliary to other task (Person-reID, Action recognition)
 - Multi-task learning (Human parsing)
 
-<div align=center><img src="data/Application.png" alt="Application" width="1000" /></div>
+<div align=center>
+  <img src="data/Application.png" alt="Application" width="1000" />
+</div>
 
 
 ### Method
