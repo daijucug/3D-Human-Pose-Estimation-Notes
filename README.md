@@ -108,7 +108,7 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 
 <img src="data/Human3.6.png" alt="Human3.6" width="1300" />
 
-<img src="data/17Joints.png" alt="17Joints" width="800" />
+<img src="data/17Joints.png" alt="17Joints" width="100" />
 
 ### Evaluation Metrics
 
