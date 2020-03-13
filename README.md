@@ -43,6 +43,8 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
   <img src="data/Challenge.png" alt="Challenge" width="900" />
 </div>
 
+
+
 ## 3D Pose Estimation 
 
 ### Problem
@@ -148,12 +150,6 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 ## 3D Shape Estimation
 
 ...
-
-
-
-
-  
-
 
 
   
