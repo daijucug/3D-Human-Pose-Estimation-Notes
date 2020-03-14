@@ -51,7 +51,7 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 
 - Estimate a 3D pose (x,y,z) coordinates from a RGB image or video (regression problem)
 - Input:  an image of a person
-- Output: 3D human pose that matches the spatial position (N×3 key points)
+- Output: 3D human pose that matches the spatial position (N×3 keypoints)
 
 ### Challenge
 
