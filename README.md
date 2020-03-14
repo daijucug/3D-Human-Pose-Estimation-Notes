@@ -71,7 +71,7 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 - Animation, gaming
 - Motion capture system
 - Action understanding
-- Provide a auxiliary to other task (Person-reID, Action recognition)
+- Provide a auxiliary to other task (Person-reID)
 - Multi-task learning (Human parsing)
 
 <div align=center>
