@@ -12,7 +12,7 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 - 3D pose or 3D shape
 
 <div align=center>
-  <img src="data/IronMan.gif" alt="Challenge" width="400" />
+  <img src="data/IronMan.gif" alt="Challenge" width="450" />
 </div>
 
 
@@ -58,7 +58,7 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 - Output: 3D human pose that matches the spatial position (N×3 keypoints)
 
 <div align=center>
-  <img src="data/Caixukun.gif" alt="Challenge" width="400" />
+  <img src="data/Caixukun.gif" alt="Challenge" width="500" />
 </div>
 
 ### Challenge
