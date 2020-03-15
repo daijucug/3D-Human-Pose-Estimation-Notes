@@ -115,8 +115,8 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
   - 3.6 million video frames, 4 different viewpoints
   - 15 actions: directions, discussion, eating, greeting, phoning, posing, purchases, sitting, sitting down, smoking, taking photo, waiting, walking, walking dog, walking together
   - 11 subjects, 7 professional actors are annotated with 3D poses
-    - Training: s1, s5, s6,s 7, s8 (1559752 samples)
-    - Testing: s9, s11 (550644 samples)
+    - Training: S1, S5, S6, S7, S8 (1559752 samples)
+    - Testing: S9, S11 (550644 samples)
 - HumanEva (2010)
 - MPI-INF-3DHP (2017)
 
