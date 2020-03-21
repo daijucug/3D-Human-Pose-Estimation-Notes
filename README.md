@@ -151,7 +151,7 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 ### The benefit of using video
 
 - Direct estimation of 3D pose from disjointed images leads to temporally incoherent output with visible jitters and varying bone lengths. 
-- The  future frames can benefit from past video information about human poses. This is beneficial when the pose of a person is ambiguous or the body is partially occluded in a given frame. Here, past information can help resolve and con- strain the pose estimate.
+- The  future frames can benefit from past video information about human poses. This is beneficial when the pose of a person is ambiguous or the body is partially occluded in a given frame. Here, past information can help resolve and constrain the pose estimate.
 
 
 
