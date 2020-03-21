@@ -156,7 +156,16 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 
 
 ## 3D Shape Estimation
+### Problem
 
+3D reconstruction is the process of estimating the 3D geometry from one or more 2D images
+
+### 3D shape representation
+
+- Depth
+- Point cloud
+- Voxel
+- Mesh
 ...
 
 
