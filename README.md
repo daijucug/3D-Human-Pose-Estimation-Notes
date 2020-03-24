@@ -2,6 +2,8 @@
 
 中文版：[3D人体姿态估计笔记](https://zhuanlan.zhihu.com/p/113024569)
 
+## Pose Estimaiton
+
 Human Pose Estimation: the problem of localization of human joints (or) keypoints (regression problem)
 
 - RGB or RGBD
@@ -94,8 +96,8 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
   - Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose（Volumetric representation, 3D heatmap) (CVPR 2017)
 - First estimate 2D poses and then lift 2D pose to 3D pose
   - Joint 2D and 3D: lift 3D pose from the estimated 2D joint position
-    - Compositional Human Pose Regsression (ICCV 2017)
     - Towards 3D Human Pose Estimation in the Wild (ICCV 2017)
+    - 3D Hand Shape and Pose Estimation from a Single RGB Image (CVPR 2019)
     - Both categories require sophisticated deep network architectures and abundant annotated training samples. 
   - 3D pose estimation using only 2D joint detections as input
     - Simple Yet Effective Baseline (ICCV 2017)
