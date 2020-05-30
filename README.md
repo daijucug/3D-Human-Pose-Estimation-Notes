@@ -14,7 +14,7 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 - 3D pose or 3D shape
 
 <div align=center>
-  <img src="data/IronMan.gif" alt="Challenge" width="450" />
+  <img src="data/Pose Estimaiton.png" alt="Challenge" width="450" />
 </div>
 
 
@@ -38,6 +38,10 @@ Human Pose Estimation: the problem of localization of human joints (or) keypoint
 
   - Benchmark: PoseTrack (2017)
   - Representative work: Simple Baselines (ECCV 2018)
+
+<div align=center>
+  <img src="data/IronMan.gif" alt="Challenge" width="450" />
+</div>
 
 ### Challenge
 
